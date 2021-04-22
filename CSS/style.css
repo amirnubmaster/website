@@ -1,0 +1,23 @@
+body{
+    margin: 0;
+}
+
+.back{
+    background: url('https://img2.fonwall.ru/o/wi/4000x2500-lake-landscape-mountain.jpeg')center / cover;
+    width: 100%;
+    height: 70vh;
+}
+
+.texts{
+    text-align: center;
+    color: white;
+}
+
+.texts h1{
+    padding-top: 5%;
+    font-size: 47px;
+}
+
+.texts p{
+    font-size: 16px;
+}
